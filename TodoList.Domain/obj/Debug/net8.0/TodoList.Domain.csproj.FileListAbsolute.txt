@@ -1,0 +1,5 @@
+C:\Users\Sam\Desktop\github\Midterm-todolist\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\github\Midterm-todolist\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfo.cs
+C:\Users\Sam\Desktop\github\Midterm-todolist\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.sourcelink.json

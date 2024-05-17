@@ -1,0 +1,9 @@
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.csproj.AssemblyReference.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.AssemblyInfo.cs
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.RazorAssemblyInfo.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.RazorAssemblyInfo.cs
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todolist\obj\Debug\net8.0\Todolist.sourcelink.json
