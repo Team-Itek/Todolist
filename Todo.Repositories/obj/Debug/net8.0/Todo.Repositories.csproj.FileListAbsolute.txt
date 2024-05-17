@@ -1,0 +1,5 @@
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.AssemblyInfoInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.AssemblyInfo.cs
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Desktop\github\Midterm-todolist\Todo.Repositories\obj\Debug\net8.0\Todo.Repositories.sourcelink.json
